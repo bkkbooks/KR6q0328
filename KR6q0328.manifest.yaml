@@ -1,0 +1,65 @@
+canonical_identifier: bkk:krp/KR6q0328/v1
+canonical_location: https://kanripo.org/bkk/KR6q0328/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 方山文寶禪師語錄
+  identifiers:
+    alt_id:
+    - X70n1395
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X70/X70n1395.xml
+    old_id: X70n1395
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0328_000.yaml, hash: 'sha256:507957c9ff021bc22e525f402d5a7286613ef34ea89cc21205e59a0e3efcf53a'}
+  - {seq: 1, filename: KR6q0328_001.yaml, hash: 'sha256:ba08909d4ed09811ca958ecd90a60c21a0c1f8a2b16aa31816215def3c57d94e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0328_000.markers.yaml, hash: 'sha256:406bf62a6e9ed937f6d4ae3ca5be2393619b29092b7936952bcf07845f0bca6a'}
+  - {seq: 1, role: markers, filename: assets/KR6q0328_001.markers.yaml, hash: 'sha256:32136423ec744db28faad4d8e784f3715ee19bf3287ace44b4d08b61f606936f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0328_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1395-A 方山和尚語錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0328_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6515
+  label: '台州府瑞巖淨土禪寺方山文寶禪
+
+    師語錄'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0328_X_001-mulu-1
+    span:
+    - body
+    - 6188
+    - 6188
+  label: No. 1395-B 增補
+  type: mulu
+  level: 1
+hash: sha256:6b01fe843634da85928bdd1ff1ee9d0fbda24568266cdc4fe160566497769d25
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
