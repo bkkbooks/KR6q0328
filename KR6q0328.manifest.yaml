@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0328_000.yaml, hash: 'sha256:214b66f64dcd4480f745eb9d5e057619caa3a953bb29d67690208809c019b442'}
+  - {seq: 0, filename: KR6q0328_000.yaml, hash: 'sha256:6dd6806b5e410206dd31ddfebdf068ecba65b7168231ef93121857c86b896502'}
   - {seq: 1, filename: KR6q0328_001.yaml, hash: 'sha256:a88a6b485295520dbab8817961a746e0237d6d8ffe586a1cbc7770e5f2e04f99'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0328_000.markers.yaml, hash: 'sha256:154173be05b678138c1361403aa713fdf30898c4177c71668bcbbc809bb596ef'}
+  - {seq: 0, role: markers, filename: assets/KR6q0328_000.markers.yaml, hash: 'sha256:ba10e9dcb15ddfac30267fbb7aa0846e28884e7b5926cc93d57bff2b4d5b9313'}
   - {seq: 1, role: markers, filename: assets/KR6q0328_001.markers.yaml, hash: 'sha256:9ffb41a6506f35c83e9cb6072cccdd32993fa6006fe941d8e20ee584fcef47cb'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0328_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1395-A 方山和尚語錄序
@@ -59,7 +59,7 @@ table_of_contents:
   label: No. 1395-B 增補
   type: mulu
   level: 1
-hash: sha256:5e31398afc0b85b18d7901077e849e808a2355ace020bc5a7d6b063e6955a6b2
+hash: sha256:24f20be6ce42c125f4a004252bc8fe8f7d47477bc009fbaacce1d4f12766523e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

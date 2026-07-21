@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0328_000-X.yaml, hash: 'sha256:eaca708d184c3acbac5d7e2b492f93944a3d18a583d98b4777f152bca89f6c3c'}
+  - {seq: 0, filename: KR6q0328_000-X.yaml, hash: 'sha256:3128f57897706865f88898eac4a782c5fd131e38a75695711d3f76687443cb37'}
   - {seq: 1, filename: KR6q0328_001-X.yaml, hash: 'sha256:42f36bf436686b4e6bf2d3a7be24003fed58a45800c6a45e83dbde3b370649ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0328_000-X.markers.yaml, hash: 'sha256:bb659bb8230793387da97848caf3929802ef5ec49ce564ba676f5141703827d0'}
+  - {seq: 0, role: markers, filename: assets/KR6q0328_000-X.markers.yaml, hash: 'sha256:edbc7d22f15b8c965c1a4ed9f341604a0e2aba2a056e9cda1f26e904451dcc49'}
   - {seq: 1, role: markers, filename: assets/KR6q0328_001-X.markers.yaml, hash: 'sha256:de5fa77e0360d2c40ec3fe3504c701f2beef1626a58c077f9cc77e4b0b9f63ba'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0328_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1395-A 方山和尚語錄序
@@ -57,4 +57,4 @@ table_of_contents:
   label: No. 1395-B 增補
   type: mulu
   level: 1
-hash: sha256:c22d9876067b2ff64ecff895b071620d947ca02d2de93d1791a252996aeca3de
+hash: sha256:320a88d14807124b3a38307789b1322b8b45862b1da5761825789fc30e1f6c77
